@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 26.159.34.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732590819698
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732592985627
+  login: 1732591863487
+money: '0'
+last-account-name: Alyra004
+lastlocation:
+  world: 487aea34-b2db-4361-bfc7-0b18d16f79fe
+  world-name: world
+  x: 7.931157737207218
+  y: 23.0
+  z: 442.2232656937668
+  yaw: -109.80029296875
+  pitch: 4.990236759185791
+logoutlocation:
+  world: 487aea34-b2db-4361-bfc7-0b18d16f79fe
+  world-name: world
+  x: -29.789792833236294
+  y: 23.0
+  z: 435.28371999994334
+  yaw: 102.7625732421875
+  pitch: 9.45004940032959

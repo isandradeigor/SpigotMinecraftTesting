@@ -1,0 +1,295 @@
+[12:16:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:16:08] [ServerMain/INFO]: Loaded 1290 recipes
+[12:16:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[12:16:09] [Server thread/INFO]: Loading properties
+[12:16:10] [Server thread/INFO]: This server is running CraftBukkit version 4344-Spigot-a759b62-19bf846 (MC: 1.21.1) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[12:16:10] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[12:16:10] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[12:16:10] [Server thread/INFO]: Debug logging is disabled
+[12:16:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:16:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:16:11] [Server thread/INFO]: Default game type: ADVENTURE
+[12:16:11] [Server thread/INFO]: Generating keypair
+[12:16:11] [Server thread/INFO]: Starting Minecraft server on 26.110.11.190:25565
+[12:16:11] [Server thread/INFO]: Using default channel type
+[12:16:12] [Server thread/INFO]: [Colored Signs] Loading ColoredSigns v6.2.1.212
+[12:16:12] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[12:16:12] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.1.1
+[12:16:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.1 is now loaded. Registering protocol transformers and injecting...
+[12:16:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[12:16:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[12:16:13] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[12:16:13] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[12:16:13] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.1.1
+[12:16:13] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.146
+[12:16:13] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[12:16:13] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.8+6939-7d32b45
+[12:16:14] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6a6fe3e1]
+[12:16:14] [Server thread/INFO]: [Essentials] Loading Essentials v2.21.0-dev+141-c7cc1b4
+[12:16:14] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.21.0-dev+141-c7cc1b4
+[12:16:14] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.21.0-dev+130-a87760d
+[12:16:14] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.21.0-dev+141-c7cc1b4
+[12:16:14] [Server thread/INFO]: [TAB] Loading TAB v5.0.1
+[12:16:14] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v4.9.0
+[12:16:14] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.21.0-dev+130-a87760d
+[12:16:14] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.12+829a4a4
+[12:16:14] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.146
+[12:16:14] [Server thread/INFO]:         __    
+[12:16:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.146
+[12:16:14] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+[12:16:14] [Server thread/INFO]: 
+[12:16:14] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[12:16:15] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[12:16:15] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[12:16:15] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[12:16:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1381ms)
+[12:16:15] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[12:16:15] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.21.0-dev+141-c7cc1b4 which is not a depend or softdepend of this plugin.
+[12:16:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:16:15] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:16:15] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[12:16:16] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[12:16:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.8+6939-7d32b45
+[12:16:16] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:16:16] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[12:16:16] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[12:16:17] [Server thread/INFO]: [WorldEdit] ====================================================
+[12:16:17] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[12:16:17] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[12:16:17] [Server thread/INFO]: [WorldEdit]   
+[12:16:17] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
+[12:16:17] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
+[12:16:17] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
+[12:16:17] [Server thread/INFO]: [WorldEdit]   
+[12:16:17] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[12:16:17] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
+[12:16:17] [Server thread/INFO]: [WorldEdit]   
+[12:16:17] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
+[12:16:17] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[12:16:17] [Server thread/INFO]: [WorldEdit]   
+[12:16:17] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[12:16:17] [Server thread/INFO]: [WorldEdit] ====================================================
+[12:16:17] [Server thread/INFO]: Preparing level "world"
+[12:16:17] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:16:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:16:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:16:17] [Server thread/INFO]: View Distance: 8
+[12:16:17] [Server thread/INFO]: Simulation Distance: 10
+[12:16:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:16:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:16:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:16:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:16:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:16:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:16:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:16:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:16:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:16:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:16:17] [Server thread/INFO]: Max TNT Explosions: 100
+[12:16:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:16:17] [Server thread/INFO]: Mob Spawn Range: 6
+[12:16:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:16:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:16:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:16:18] [Server thread/INFO]: View Distance: 8
+[12:16:18] [Server thread/INFO]: Simulation Distance: 10
+[12:16:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:16:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:16:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:16:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:16:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:16:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:16:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:16:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:16:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:16:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:16:18] [Server thread/INFO]: Max TNT Explosions: 100
+[12:16:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:16:18] [Server thread/INFO]: Mob Spawn Range: 6
+[12:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:16:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:16:18] [Server thread/INFO]: Time elapsed: 434 ms
+[12:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:16:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:16:19] [Server thread/INFO]: Time elapsed: 352 ms
+[12:16:19] [Server thread/INFO]: [Colored Signs] Enabling ColoredSigns v6.2.1.212
+[12:16:19] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[12:16:19] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[12:16:19] [Server thread/INFO]: [ClearLag] Loading modules...
+[12:16:19] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_21_R1.MinecraftServer)
+[12:16:19] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[12:16:19] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[12:16:19] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[12:16:19] [Thread-12/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.21]...
+[12:16:19] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.1
+[12:16:19] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[12:16:19] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.1.1
+[12:16:19] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+141-c7cc1b4
+[12:16:19] [Thread-12/INFO]: [ClearLag] No updates found!
+[12:16:19] [Server thread/ERROR]: Você está executando uma versão de servidor não suportada!
+[12:16:19] [Server thread/WARN]: §4Versao não correspondente! Por favor atualize o EssentialsChat para a mesma versão.
+[12:16:19] [Server thread/WARN]: §4Versao não correspondente! Por favor atualize o EssentialsSpawn para a mesma versão.
+[12:16:19] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[12:16:19] [Server thread/INFO]: No kits found to migrate.
+[12:16:20] [Server thread/INFO]: Loaded 42779 items from items.json.
+[12:16:20] [Server thread/INFO]: Using locale pt_BR
+[12:16:20] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[12:16:20] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[12:16:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[12:16:20] [Server thread/INFO]: Using Vault based permissions (LuckPerms)
+[12:16:20] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.21.0-dev+141-c7cc1b4
+[12:16:20] [Server thread/INFO]: Continuing to enable Protect.
+[12:16:20] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[12:16:20] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+130-a87760d
+[12:16:20] [Server thread/WARN]: §4Versão não correspondente! Por favor atualize todos os jars do Essentials para a mesma versão.
+[12:16:20] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[12:16:20] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.21.0-dev+141-c7cc1b4
+[12:16:20] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[12:16:20] [Server thread/INFO]: [TAB] Enabling TAB v5.0.1
+[12:16:20] [Server thread/INFO]: [TAB] Loaded NMS hook in 105ms
+[12:16:20] [Server thread/INFO]: [TAB] Enabled in 188ms
+[12:16:20] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v4.9.0
+[12:16:20] [Server thread/INFO]: [ServerSigns] Unable to load PlaceholderAPI dependency - placeholder features will be disabled
+[12:16:20] [Server thread/INFO]: [ServerSigns] You can download PlaceholderAPI at https://www.spigotmc.org/resources/placeholderapi.6245/
+[12:16:20] [Server thread/INFO]: [ServerSigns] Version 4.9.0 is now enabled.
+[12:16:20] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+130-a87760d
+[12:16:20] [Server thread/WARN]: §4Versão não correspondente! Por favor atualize todos os jars do Essentials para a mesma versão.
+[12:16:20] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[12:16:20] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[12:16:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[12:16:21] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:16:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:16:21] [Server thread/INFO]: Done (3.548s)! For help, type "help"
+[12:16:21] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[12:16:21] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[12:16:21] [Craft Scheduler Thread - 1/INFO]: §6Buscando informações da versão...
+[12:16:21] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[12:16:21] [Craft Scheduler Thread - 2/INFO]: [Metrics] Connection refused: connect
+[12:16:21] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[12:16:25] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.146.
+[12:16:25] [luckperms-command-executor/INFO]: > /lp user <user>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp group <group>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp track <track>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp log
+[12:16:25] [luckperms-command-executor/INFO]: > /lp sync
+[12:16:25] [luckperms-command-executor/INFO]: > /lp info
+[12:16:25] [luckperms-command-executor/INFO]: > /lp editor [type]
+[12:16:25] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[12:16:25] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
+[12:16:25] [luckperms-command-executor/INFO]: > /lp search <permission>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp networksync
+[12:16:25] [luckperms-command-executor/INFO]: > /lp import <file>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp export <file>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp reloadconfig
+[12:16:25] [luckperms-command-executor/INFO]: > /lp bulkupdate
+[12:16:25] [luckperms-command-executor/INFO]: > /lp translations
+[12:16:25] [luckperms-command-executor/INFO]: > /lp creategroup <group>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp listgroups
+[12:16:25] [luckperms-command-executor/INFO]: > /lp createtrack <track>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
+[12:16:25] [luckperms-command-executor/INFO]: > /lp listtracks
+[12:16:31] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.146.
+[12:16:31] [luckperms-command-executor/INFO]: > /lp user <user>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp group <group>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp track <track>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp log
+[12:16:31] [luckperms-command-executor/INFO]: > /lp sync
+[12:16:31] [luckperms-command-executor/INFO]: > /lp info
+[12:16:31] [luckperms-command-executor/INFO]: > /lp editor [type]
+[12:16:31] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[12:16:31] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
+[12:16:31] [luckperms-command-executor/INFO]: > /lp search <permission>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp networksync
+[12:16:31] [luckperms-command-executor/INFO]: > /lp import <file>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp export <file>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp reloadconfig
+[12:16:31] [luckperms-command-executor/INFO]: > /lp bulkupdate
+[12:16:31] [luckperms-command-executor/INFO]: > /lp translations
+[12:16:31] [luckperms-command-executor/INFO]: > /lp creategroup <group>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp listgroups
+[12:16:31] [luckperms-command-executor/INFO]: > /lp createtrack <track>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
+[12:16:31] [luckperms-command-executor/INFO]: > /lp listtracks
+[12:17:04] [Server thread/INFO]: Stopping the server
+[12:17:04] [Server thread/INFO]: Stopping server
+[12:17:04] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[12:17:04] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[12:17:04] [Server thread/INFO]: Disabling EssentialsSpawn v2.21.0-dev+130-a87760d
+[12:17:04] [Server thread/INFO]: [ServerSigns] Disabling ServerSigns v4.9.0
+[12:17:04] [Server thread/INFO]: [ServerSigns] ServerSigns is now disabled.
+[12:17:04] [Server thread/INFO]: [TAB] Disabling TAB v5.0.1
+[12:17:04] [Server thread/INFO]: [TAB] Disabled in 1ms
+[12:17:04] [Server thread/INFO]: Disabling EssentialsAntiBuild v2.21.0-dev+141-c7cc1b4
+[12:17:04] [Server thread/INFO]: Disabling EssentialsChat v2.21.0-dev+130-a87760d
+[12:17:04] [Server thread/INFO]: Disabling EssentialsProtect v2.21.0-dev+141-c7cc1b4
+[12:17:04] [Server thread/INFO]: Disabling Essentials v2.21.0-dev+141-c7cc1b4
+[12:17:04] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[12:17:04] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.8+6939-7d32b45
+[12:17:04] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[12:17:04] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[12:17:04] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.146
+[12:17:04] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[12:17:04] [Server thread/INFO]: [LuckPerms] Closing storage...
+[12:17:04] [Server thread/INFO]: [LuckPerms] Goodbye!
+[12:17:04] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.1.1
+[12:17:04] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.1
+[12:17:04] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[12:17:04] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[12:17:04] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[12:17:04] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[12:17:04] [Server thread/INFO]: [Colored Signs] Disabling ColoredSigns v6.2.1.212
+[12:17:04] [Server thread/INFO]: &cColored Signs is now disabled!
+[12:17:04] [Server thread/INFO]: Saving players
+[12:17:04] [Server thread/INFO]: Saving worlds
+[12:17:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:17:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:17:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:17:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:17:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

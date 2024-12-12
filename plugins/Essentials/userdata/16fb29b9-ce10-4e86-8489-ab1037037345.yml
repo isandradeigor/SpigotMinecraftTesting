@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 26.102.232.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732578998539
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732586806856
+  login: 1732586553900
+money: '0'
+last-account-name: Chiibyyy
+logoutlocation:
+  world: 487aea34-b2db-4361-bfc7-0b18d16f79fe
+  world-name: world
+  x: -194.7172341315854
+  y: 25.524424088213678
+  z: 414.62325812391026
+  yaw: -100.8909912109375
+  pitch: 22.2690486907959
+lastlocation:
+  world: 487aea34-b2db-4361-bfc7-0b18d16f79fe
+  world-name: world
+  x: -328.5194392727755
+  y: 27.514017202905382
+  z: 348.83092672633956
+  yaw: -81.24908447265625
+  pitch: 24.89996910095215
